@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation against vicious, debauch'd, and prophane persons. By the King.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19380</idno><idno type="EEBO-CITATION">99886148_192386</idno>
+  <idno type="VID">192386</idno>
+  <idno type="EEBO-PROQUEST">2248538251</idno>
+  
+            <idno type="STC">Wing C3227A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.1[112]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.1[20k]</idno>
+            <idno type="STC">ESTC R225520</idno>
+            <idno type="PROQUEST">ocm99886148</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886148e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19380)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192386)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:1[112]; C9:3[50])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation against vicious, debauch'd, and prophane persons. By the King.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed by Christopher Barker and John Bill, printers to the Kings most Excellent Majesty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end: Given at our court at Whitehal, the thirtieth day of May, in the twelfth year of our reign.</note>
+                  <note>Arms 23; Steele notation: and whom Govern-.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Vices --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:192386:1"/>
+            <head type="illustration">
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <p>
+                     <label>C R</label>
+                  </p>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <head>A PROCLAMATION AGAINST Vicious, Debauch'd, and Prophane Persons</head>
+            <byline>By the King.</byline>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince it hath pleased the Divine Providence in so wonderful a manner, and by ways and means no less miraculous, then those by which he did, heretofore, preserve and restore his own chosen people, to restore Vs, and Our good Subjects to each other, and to shew Vs a very hopeful Prospect, if not to put Vs already into possession of that Peace, Happiness, and Security with which this Our Kingdom hath been heretofore blessed; It will become Vs all, in Our several Stations, to acknowledge this transcendent goodness of Almighty God, in so seasonable a conjuncture, with such a Circumspecti<g ref="char:EOLhyphen"/>on, Integrity, and Reformation in Our Lives, that We may not drive away that Mercy which so near approacheth Vs, by making Our selves (wholly) unworthy of it. And in Order hereunto, We think it high time to shew Our dislike of those (against whom We have been ever enough offended, though We could not, in this manner declare it who, under pretence of Affection to Vs and Our Service, assume to themselves the liberty of Reviling, Threatning and Reproaching others; and as much as in them lies, endeavor to stifle and divert their good Incli<g ref="char:EOLhyphen"/>nations to Our Service, and so to prevent that Reconciliation and Union of Hearts and Affections, which can onely, with Gods Blessing, make Vs rejoyce in each other, and keep Our Enemies from rejoycing.</p>
+            <p>There are likewise another sort of Men, of whom we have heard much, and are sufficiently ashamed, who spend their time in Taverns, Tipling-houses and Debauches, giving no other Evidence of their Affection to Vs, but in drinking Our Health, and Inveighing against all others who are not of their own dissolute temper; and who, in truth, have more discredited Our Cause by the Licence of their Manners and Lives, then they could e<g ref="char:EOLhyphen"/>ver advance it by their Affection or Courage. We hope that this extraordinary way of delivering Vs all from all We feared, and almost bringing Vs to all We can reasonably hope, hath and will work upon the Hearts, even of these men to that degree, that they will cordially renounce all that Licenciousness, Prophaneness, and Impiety with which they have been corrupted, and endeavored to corrupt others, and that they will hereafter become examples of Sobriety and Virtue, and make it appear, that what is past, was rather the Vice of the Times then of the Persons, and so the fitter to be forgotten together.</p>
+            <p>And, because the fear of Punishment, or apprehension of Our Displeasure, may have influence upon many, who will not be restrained by the Conscience of their Duty, We do Declare, That We will not exercise just Seve<g ref="char:EOLhyphen"/>rity against any Malefactors, sooner, then against men of dissolute, debauch'd, and prophane Lives, with what parts soever they may be otherwise qualified and endowed; and We hope, that all Persons of Honor, or in Place and Authority, will so far assist Vs in discountenancing such Men, that their Discretion and shame will per<g ref="char:EOLhyphen"/>swade them to reform what their Conscience would not, and that the displeasure of good Men towards them, may supply what the Laws have not; and, it may be, cannot well provide against, there being by the Licence and Corruption of the Times, and the depraved Nature of Men, many Enormities, Scandals, and Impieties, in Practice and Manners, which Laws cannot well describe, and consequently not enough provide against, which may by the example and severity of Vertuous Men, be easily discountenanced, and by degrees suppressed.</p>
+            <p>However, for the more effectual reforming these Men, who are a discredit to the Nation, and unto any Cause they pretend to favor, and to wish well to; We require all Majors, Sheriffs, and Iustices of Peace, to be very vigilant and strict in the discovery and prosecution of all Dissolute and Prophane Persons, and such as Blaspheme the Name of God, by prophane Swearing and Cursing, or revile or disturbe Ministers, and despise the Publick Worship of God; that being first bound to the Good-behavior, they may be further proceeded against, and exposed to shame, in such a manner, as the Laws of the Land, and the just and necessary Rules of Govern<g ref="char:EOLhyphen"/>ment shall direct or permit.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Whitehal,</hi>
+                  <date>the Thirtieth day of <hi>May,</hi> in the Twelfth Year of Our Reign.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Christopher Barker</hi> and <hi>John Bill,</hi> Printers to the KINGS most Excellent Majesty. 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
